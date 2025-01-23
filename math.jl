@@ -2,6 +2,7 @@
 #=multi-line 
 comment=#
 
+#Basic Math. After writing just press shift+enter to run in Julia REPL
 1+1
 
 1+1
